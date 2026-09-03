@@ -1,0 +1,28 @@
+.Navigation {
+    align-items: center;
+    background-color: #031A3E;
+    color: white;
+    display: flex;
+    justify-content: left;
+    padding-left: 2%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.NameAndLogo {
+    align-items: center;
+    display: flex;
+    gap: .5rem;
+    width: 25%;
+}
+
+.Name h1 {
+    margin: 0;
+}
+
+.ButtonDiv {
+    display: flex;
+    justify-content: center;
+    gap:20px;
+   
+}

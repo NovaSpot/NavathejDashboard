@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+    margin: 0;
+    min-height: 100%;
+}
+
+.Main{
+    background-color: #12284C;
+        min-height: 100vh;
+}
