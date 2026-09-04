@@ -1,12 +1,16 @@
 h2{
     font-weight:35;
-    color: aliceblue;
+    
 }
 h2:hover{
     font-weight:35;
-    color: rgb(140, 190, 234);
+    
 }
 .Buttons{
     background-color:transparent;
     border: none;
+    color: white;
+}
+.Buttons.active{
+    color: #49d17d;
 }
